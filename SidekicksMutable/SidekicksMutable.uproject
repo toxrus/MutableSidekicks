@@ -18,15 +18,6 @@
 		{
 			"Name": "MutablePopulation",
 			"Enabled": true
-		},
-		{
-			"Name": "MatUtils",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/c2cb46a5-d226-4011-b3dd-ed3f8a87861e"
-		},
-		{
-			"Name": "OverCrowd",
-			"Enabled": false
 		}
 	]
 }
