@@ -1,4 +1,7 @@
 # MutableSidekicks
+
+Alternative plugin version (5.8+, currently Editor facing only): https://github.com/toxrus/MutableSidekicksPlugin/
+
 An ongoing sample project for the setup of Synty Sidekicks characters in Unreal Engine using Mutable.  
 USE FOR TESTING/LEARNING ONLY - THIS IS VERY MUCH WIP, NOT RECOMMENDED FOR USE IN ACTUAL PRODUCTION!  
 This project does not include any Sidekicks meshes/assets. They have to be manually added at the correct locations.
